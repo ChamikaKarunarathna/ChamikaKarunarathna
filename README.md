@@ -12,4 +12,4 @@
 
 ## 🎯 Roadmap.sh Status
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6784022770129741a84eae7e?variant=dark&roadmaps=product-manager%2Cfrontend)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6784022770129741a84eae7e?variant=dark&roadmaps=frontend%2Cproduct-manager" alt="roadmap.sh"/></a>
