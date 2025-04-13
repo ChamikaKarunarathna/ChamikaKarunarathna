@@ -7,15 +7,15 @@
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChamikaKarunarathna&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-
-<div><img src="https://github-profile-trophy.vercel.app/?username=ChamikaKarunarathna" alt="ChamikaKarunarathna" /></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ChamikaKarunarathna" alt="ChamikaKarunarathna" /></div>
 <br>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ChamikaKarunarathna&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>,
+<br>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamikaKarunarathna&&exclude_repo=ChamikaKarunarathna&layout=compact&theme=dracula" alt="languages"/>
 </div>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamikaKarunarathna&&exclude_repo=ChamikaKarunarathna&layout=compact&theme=dracula" alt="languages"/>
 
 
 ## 🎯 Roadmap.sh Status
