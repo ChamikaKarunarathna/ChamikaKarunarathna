@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🖥 I'm a Software Engineer
-- 👩‍💻 Currently working as an Associate Software Developer at Sanmark Solutions Pvt Ltd.
+- 👩‍💻 Currently working as a Software Engineer at Sanmark Solutions Pvt Ltd.
 - 👨‍🎓 Studied Software Developer NVQ Level IV course at NVTI Baddegama.
 - 📧 Contact me: cklkarunarathnavta@gmail.com
 
